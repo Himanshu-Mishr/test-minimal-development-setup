@@ -14,14 +14,6 @@ NodeJS module generator/boilerplate.
 -   [**Travis CI**](https://travis-ci.org) - Automate tests and linting for every push or pull request;
 -   [**Documentation**](http://documentation.js.org/) - A documentation system so good, you'll actually write documentation.
 
-## Install
-
-The easiest way to use **nod** is through the Yeoman Generator.
-
-```sh
-$ npm install -g yo generator-nod
-$ yo nod
-```
 
 If you don't want to use the generator, you can also download or `git clone` this repo
 
